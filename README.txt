@@ -35,6 +35,9 @@ or injure your heart, hurt your body.
 What is the customize for this?
 I'm not tell you. whatever it is unprovability.
 
+In enterprise usages , the machine may be "something inside"
+you may probe true machine's name.
+
 PORTIONS
 
 mostly DeepL translation from japanese.
