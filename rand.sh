@@ -7,7 +7,7 @@ lines="${lines% *}"
 ME=$(< "${MEM}" )
 M=$(( "${ME% *}" + "${ME#* }" ))
 M=$(( "${M}" / 2 ))
-RWINDOW=$(( "${2}" / "${lines}" ))
+RWINDOW=3
 RANGE=$(( "${RANDOM}" / "${RWINDOW}" ))
 if [ "${RANGE}" -le "1" ]
 then
