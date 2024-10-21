@@ -39,8 +39,8 @@ In enterprise usages , the machine may be "something inside"
 you may probe true machine's name.
 
 if unsure,
-$ cp level2.txt l2.txt
-$ cat l2.txt >> blob.txt
+$ cp blob.txt b.txt
+$ cat level2.txt >> blob.txt
 
 PORTIONS
 
