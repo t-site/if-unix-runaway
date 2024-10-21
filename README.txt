@@ -30,6 +30,8 @@ NOT FOR SHAME
 NOT CUT-AND-COPY EDIT blobs.txt
 NOT FOR REPLACE HUMANS,MACHINES
 
+UNPROVABLE PROBLEM HAPPEND. zsh is not recommend. zsh as robot.
+
 or injure your heart, hurt your body.
 
 What is the customize for this?
