@@ -42,3 +42,8 @@ In enterprise usages , the machine may be "something inside"
 you may probe true machine's name.
 
 now blobs.txt is not translation, fully scratched.
+
+more-blob.txt is japanese translation by hand . so its say engrish. 
+only for extremely unprovable accident in enterprise.
+	DO NOT LOVE WITH THE MACHINE.
+usage as what you wants.
