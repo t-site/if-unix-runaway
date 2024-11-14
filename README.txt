@@ -29,6 +29,12 @@ only for super unprovable accident in enterprise.
 	DO NOT LOVE WITH THE MACHINE.
 usage as what you wants.
 
+in extreme condition, use iu4.sh.
+iu4.sh requires a parameter.
+so example
+
+$ bash iu4.sh more-blob.txt
+
 if you failed twice, start customize.
 
 CUSTOMIZE
