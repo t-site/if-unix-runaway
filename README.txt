@@ -27,6 +27,10 @@ now blobs.txt is not translation, fully scratched.
 more-blob.txt is japanese translation by hand . so its say engrish. 
 only for super unprovable accident in enterprise.
 	DO NOT LOVE WITH THE MACHINE.
+
+formal.txt is intended at laxuary field and hyper unprovable contidion.
+it is japanese translation. so its say japanese form.
+
 usage as what you wants.
 
 in extreme condition, use iu4.sh.
@@ -35,7 +39,7 @@ so example
 
 $ bash iu4.sh more-blob.txt
 
-if you failed twice, start customize.
+if you failed yet, start customize.
 
 CUSTOMIZE
 
