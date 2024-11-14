@@ -10,11 +10,11 @@ B=$(( AI + AO + L ))
 OUT=$(( B / 3 ))
 while [ "$OUT" -lt 1 ]
 do
-	OUT=$(( OUT += ( LINE - 1 ) ))
+	OUT=$(( OUT + LINE ))
 done
 while [ "$OUT" -gt "$LINE" ]
 do
-	OUT=$(( OUT -= LINE ))
+	OUT=$(( OUT - LINE ))
 done
 echo "${AO}" "${L}" > "${MEM}"
 head -"${OUT}" "${1}" | tail -1
