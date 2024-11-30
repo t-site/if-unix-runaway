@@ -31,6 +31,24 @@ I FOUND THAT ANOMALY ON ILLEGAL HARDWARE
 MAYBE IT HAPPENS ON TOSHIBA "dynabook" AND TOSHIBA "HDD" "SSHD"
 If you are mania of japanese culture, immediatly know what happen.
 
+COOK ILLEGAL HARDWARE
+	
+FOR SOLVE SOME ANOMALY , HARDWARE HACKING REQUIRED
+
+	add bypass capacitors on dark patterns
+	degauss inductors by manget
+	inductors remove and set opposite
+	remove dielectric in capacitors by solderer
+	clean connectors
+	remove dust on cooling system
+	remove and set new heat glease
+	add kernel parameters on intel x86_64 hardware with Linux:
+		"intel_pstate=disable pcie_aspm=off"
+	change memory modules
+
+IF YOU ARE ORGANIZATION , CALL MANUFUCTURE FIRST
+IF SOLVED , SOME DISPLAYS REDSHIFT
+
 USAGE
 
 only
