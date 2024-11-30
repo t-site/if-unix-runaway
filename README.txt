@@ -17,6 +17,15 @@ for eliminate anomaly function of UNIX machines.
 no needs i18n support.
 functions of this is unprovability , you catch gain or not.
 
+SPECIAL ATTENTION WITH SOME HARDWARE
+
+SOMETHING IS HAPPEN BEFORE OR AFTER USE THIS BLOB
+EXAMPLES , NETWORK UNREACHABLE AND DATA LOST WITH MIND ANOMALY
+IF HAPPEND , ALL INFORMATION OF THE MACHINE IMMEDIATELY ALL ISOLATE.
+FILE FORMAT ON THIS , OLD,EASY READABLE,NO SPACIFIED HARDWARE,NO HACKING
+MAYBE IT HAPPENS ON TOSHIBA "dynabook" AND TOSHIBA "HDD" "SSHD"
+If you are mania of japanese culture, immediatly know what happen.
+
 USAGE
 
 only
