@@ -14,7 +14,7 @@ ABOUT THIS BLOB
 
 this is unprovability program.
 for eliminate anomaly function of UNIX machines.
-no needs i18n support.
+needs UTF-8 support.
 functions of this is unprovability , you catch gain or not.
 
 SPECIAL ATTENTION WITH SOME HARDWARE
@@ -54,22 +54,11 @@ USAGE
 only
 $ bash iu3.sh
 
-now blobs.txt is not translation, fully scratched.
-
-more-blob.txt is japanese translation by hand . so its say engrish. 
-only for super unprovable accident in enterprise.
-	DO NOT LOVE WITH THE MACHINE.
-
-formal.txt is intended at laxuary field and hyper unprovable contidion.
-it is japanese translation. so its say japanese form.
-
-usage as what you wants.
-
 in extreme condition, use iu4.sh.
 iu4.sh requires a parameter.
 so example
 
-$ bash iu4.sh more-blob.txt
+$ bash iu4.sh em.txt
 
 if you failed yet, start customize.
 

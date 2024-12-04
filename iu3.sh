@@ -1,4 +1,4 @@
 #!/bin/bash
 
-LINE=$(. ./rand.sh blobs.txt )
-head -"${LINE}" blobs.txt | tail -1
+LINE=$(. ./rand.sh em.txt )
+head -"${LINE}" em.txt | tail -1
