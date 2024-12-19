@@ -45,7 +45,7 @@ COOK ILLEGAL HARDWARE
 FOR SOLVE SOME ANOMALY , HARDWARE HACKING REQUIRED
 
 	add bypass capacitors on dark patterns
-	degauss inductors by manget
+	demagnetize inductors by manget
 	inductors remove and set opposite
 	remove dielectric in capacitors by solderer
 	clean connectors
