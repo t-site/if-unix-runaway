@@ -77,6 +77,9 @@ NOT FOR REPLACE HUMANS,MACHINES
 UNPROVABLE PROBLEM HAPPEND. zsh is not recommend. 
 	Use zsh in extreme condicion.
 
+MORE PROBLEM HAPPEND. you might customize iu*.sh side by side every machines.
+random , memory , line oriented , then iu*.sh.
+
 or injure your heart, hurt your body.
 
 What is the customize for this?
