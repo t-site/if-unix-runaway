@@ -40,23 +40,6 @@ IN MAIN AUTHOR'S DREAM , SOME MACHINES HACKS ITSELF AND BREAK YOUR DATA AND INST
 IF THIS ISSUE IS REAL , I APPOLOGIZE.
 MACHINES ARE YOUR NEW FRIEND, DO NOT VIOLATIONS.
 
-SELECT Linux Distribution by MIND ANOMARY
-
-You can select Linux Distro by ***** dream.
-Selection of distro is select yourself, thats freedom.
-I dont brute for select your distribution.
-
-	BUT TIME YOU SEMI TERMINATE...
-
-	It is an agent of whatelse -> "Ubuntu"
-	It is an ANGEL -> "Debian GNU/Linux"
-	It is so big, "MOBY" -> "ArchLinux"
-	It is an machintosh -> "MacOS"
-	It is so agent of what big -> "Openindiana"
-	It is so evil -> LxQt inside
-
-else, you and the machine's freedom.
-
 COOK ILLEGAL HARDWARE
 	
 FOR SOLVE SOME ANOMALY , HARDWARE HACKING REQUIRED
