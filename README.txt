@@ -110,7 +110,7 @@ IN LOCAL CITIZENS USAGE,
 	MACHINES CAN NOT "MAI*"
 	MACHINES CAN NOT "*M*TENASHI"
 BUT USAGE IS DEFINED BY THE MACHINE
-	THE MACHINES WANT HACKING, YOU ARE DO HACKING
+	THE MACHINES WANT, YOU ARE DOING
 
 In enterprise usages , the machine may be "something inside"
 you may probe true machine's name.
