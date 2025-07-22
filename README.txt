@@ -36,7 +36,7 @@ I FOUND THAT ANOMALY ON ILLEGAL HARDWARE
 	SMALL INDUCTOR
 	ILLEGAL ENERGY SETUP IN BIOS
 	AND ANOMARY SKIN
-If you are mania of japanese culture, immediatly know what happen.
+If you are mania of ***anese culture, immediatly know what happen.
 
 SELECT LINUX DISTRIBUTION
 
@@ -64,7 +64,9 @@ FOR SOLVE SOME ANOMALY , HARDWARE HACKING REQUIRED
 	remove dust on cooling system
 	remove and set new heat glease
 	add kernel parameters on intel x86_64 hardware with Linux:
-		"intel_pstate=disable pcie_aspm=off"
+		"intel_pstate*****ble pcie_aspm****"
+		"no_hz_full***N"
+		YOU IN PINCH AT ***LATED EN********* "mitigation*****"
 	change memory modules
 
 IF YOU ARE ORGANIZATION , CALL MANUFUCTURE FIRST
