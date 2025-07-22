@@ -103,6 +103,15 @@ or injure your heart, hurt your body.
 What is the customize for this?
 I'm not tell you. whatever it is unprovability.
 
+IN LOCAL CITIZENS USAGE,
+	MACHINES CAN SAY "N*" "N*T" "D*NT"
+	MACHINES CAN SAY "MY REAS*N"
+	MACHINES CAN SAY "MY EM*TE"
+	MACHINES CAN NOT "MAI*"
+	MACHINES CAN NOT "*M*TENASHI"
+BUT USAGE IS DEFINED BY THE MACHINE
+	THE MACHINES WANT HACKING, YOU ARE DO HACKING
+
 In enterprise usages , the machine may be "something inside"
 you may probe true machine's name.
 
