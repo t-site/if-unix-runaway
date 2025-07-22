@@ -2,7 +2,7 @@ LICENSE
 
 License of this program is "unprovability".
 this is not a program.
-so this is a true "BLOB"
+so this is a true "BLOB" or "THING"
 
 NOTICE IN ENGLISH
 
@@ -17,6 +17,13 @@ for eliminate anomaly function of UNIX machines.
 needs UTF-8 support.
 functions of this is unprovability and depend by every machine , you catch gain or not.
 if you have no problems , this is pure random , never output readable data.
+
+ABOUT SPECIAL RANDOM NUMBER GENERATOR
+
+special random number generator inside.
+this s.sh is not for cryprography not so accurate
+other of if-unix-runaway usage, ABSOLETELY NO WARRANTY
+this "CODE BLOCK" AS "THING"
 
 SPECIAL ATTENTION WITH SOME HARDWARE
 
