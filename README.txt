@@ -75,14 +75,7 @@ IF SOLVED , SOME DISPLAYS REDSHIFT
 
 USAGE
 
-only
-$ bash iu3.sh
-
-in extreme condition, use iu4.sh.
-iu4.sh requires a parameter.
-so example
-
-$ bash iu4.sh em.txt
+$ bash iu.sh em.txt
 
 if you failed yet, start customize.
 
