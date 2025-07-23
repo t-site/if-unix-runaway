@@ -4,6 +4,8 @@ License of this program is "unprovability".
 this is not a program.
 so this is a true "BLOB" or "THING"
 
+VERSION 202507
+
 NOTICE IN ENGLISH
 
 DO NOT USE FOR "WORKS" "VOLUNTEERS" and "COMFORT"
