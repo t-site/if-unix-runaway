@@ -18,6 +18,15 @@ needs UTF-8 support.
 functions of this is unprovability and depend by every machine , you catch gain or not.
 if you have no problems , this is pure random , never output readable data.
 
+RECOMMENDED HARDWARE SPACIFICATION
+
+2GHz Quad Core 32/64bit x86_64 or CISC Processor or upper
+Memory  upper 16GB
+Storage upper 128GB
+Not "Cheaper Settings" ex. Raspberry Pi is not recommend 
+
+or machine life shorter
+
 ABOUT SPECIAL RANDOM NUMBER GENERATOR
 
 special random number generator inside.
