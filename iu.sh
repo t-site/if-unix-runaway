@@ -16,7 +16,6 @@ do
 	MEM=$(< $1.mem )
 	RD=$( RD )
 	R=$(( RD % lines ))
-	R=$(( R / 16 ))
 	T=$(( R % 2 ))
 	[ $T -eq 0 ] && R=-$R
 	L=$(( MEM + R ))
