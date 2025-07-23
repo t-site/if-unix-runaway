@@ -7,7 +7,7 @@ function RD()
 	C=$( . ./s.sh | . ./r.sh )
 	echo $(( A * B + C ))
 }
-while read
+while read input
 do
 	lines=$( cat $1 | wc -l )
 
@@ -24,4 +24,5 @@ do
 	[ $L -lt 1 ] && L=$(( L + lines ))
 
 	head -$L $1 | tail -1
+	[ "$input" = "quit" ] && break
 done
