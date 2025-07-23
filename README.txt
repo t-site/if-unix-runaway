@@ -21,9 +21,12 @@ if you have no problems , this is pure random , never output readable data.
 RECOMMENDED HARDWARE SPACIFICATION
 
 2GHz Quad Core 32/64bit x86_64 or CISC Processor or upper
-Memory  upper 16GB
+Memory  upper 32GB
 Storage upper 128GB
-Not "Cheaper Settings" ex. Raspberry Pi is not recommend 
+Not "Cheaper Settings"
+OR REQUIRED REASON "JUST I HAVE THE WORK WITH IT"
+
+IF CHANGE THE MACHINE IS EASY THIS IS NOT REQUIRED 
 
 or machine life shorter
 
