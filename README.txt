@@ -20,9 +20,10 @@ if you have no problems , this is pure random , never output readable data.
 
 RECOMMENDED HARDWARE SPACIFICATION
 
-2GHz Quad Core 32/64bit x86_64 or CISC Processor or upper
-Memory  upper 32GB
-Storage upper 128GB
+2GHz Quad Core 32/64bit CISC Processor such as x86_64 or upper
+Memory >= 32GB
+SSD >= 128GB
+IF HDD >= 2TB
 Not "Cheaper Settings"
 OR REQUIRED REASON "JUST I HAVE THE WORK WITH IT"
 
